@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.CustomBrowser": "firefox",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.useWebExt": true,
+    "liveServer.settings.useLocalIp": true,
+    "liveServer.settings.useBrowserPreview": true
+}
